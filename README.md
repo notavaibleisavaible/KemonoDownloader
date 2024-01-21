@@ -1,6 +1,5 @@
 # KemonoDownloader
 
-(bad code alert)
 
 
 ## Simple file downloader for the [Kemono.party] website
